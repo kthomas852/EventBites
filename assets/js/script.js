@@ -1,3 +1,1 @@
-$(document).ready(function() {
-    $('body').attr('background', 'lightgrey');
-})
+$('body').append($('<p>').text('jquery Test'));
